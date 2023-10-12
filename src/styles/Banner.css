@@ -1,0 +1,20 @@
+.banner {
+    color: #FB4C0D;
+    padding: 32px;
+    font-size: 18px;
+    border-bottom: solid 3px transparent;
+    border-image: linear-gradient(144deg,#482253, #753767 40%,#FB4C0D);
+    border-image-slice: 1;
+    display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+.banner-title{
+    padding-left: 22px;
+}
+.logo{
+    height: 65px;
+	width: 65px;
+
+}
+

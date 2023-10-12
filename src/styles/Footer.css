@@ -1,0 +1,34 @@
+.footer {
+	color: #FB4C0D;
+	padding: 32px;
+    border-top: solid 3px transparent;
+    border-image: linear-gradient(144deg,#482253, #753767 40%,#FB4C0D);
+    border-image-slice: 1;
+	display: flex;
+	justify-content: flex-start;
+	flex-direction: column;
+	align-items: center;
+	font-weight: 500;
+}
+
+.footer-elem {
+	margin-bottom: 10px;
+}
+.logo-mini{
+    width: 18px;
+    margin: 0px 10px;
+}
+.footer-input{
+    margin: 5px;
+}
+.footer-btn{
+    align-items: center;
+    background-image: linear-gradient(144deg,#482253, #753767 40%,#FB4C0D);
+    border: 0;
+    border-radius: 5px;
+    box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: 400;
+    cursor: pointer;
+}

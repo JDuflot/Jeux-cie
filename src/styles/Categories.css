@@ -1,0 +1,43 @@
+.game-cat {
+	display: grid;
+	grid-template-areas: "select";
+	align-items: center;
+	position: relative;
+	left: 17.5%;
+	width: 252px;
+  	border-radius: 5px;
+  	font-size: 18px;
+  	cursor: pointer;
+}
+.game-cat-select {
+	background-color: #faf1ee;
+}
+.game-cat-btn{
+	background-color: #753767;
+	border: 2px solid #f5dbd2;
+	border-radius: 8px;
+	height: 30px;
+	color: #FFFFFF;
+	font-size: 16px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	cursor: pointer;
+	margin: 2% 8% 8%;
+}
+.game-cat-btn:hover{
+	font-weight: 600;
+}
+select {
+	appearance: none;
+	background-color: transparent;
+	text-align: center;
+	border: 2px solid #753767;
+	border-radius: 5px;
+	margin: 0;
+	width: 100%;
+	font-family: inherit;
+	font-size: inherit;
+	cursor: inherit;
+	line-height: inherit;
+}

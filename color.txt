@@ -1,0 +1,6 @@
+#f1a274 (rose pale)
+#f1ac78 (saumon pale)
+#FB4C0D (orange vif)
+
+#753767 (violine Klimt)
+#482253 (violet Klimt)

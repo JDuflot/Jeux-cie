@@ -1,0 +1,32 @@
+.category{
+	color: #482253;
+}
+
+.game-list{
+
+	padding: 32px;
+	margin-left: 15%;
+	display: flex;
+    justify-content: center;
+	flex-wrap: wrap;
+	max-width: 1200px;
+    color: #482253;
+    font-weight: 600;
+
+}
+.game-list-btn{
+	padding: 2%;
+	margin-left: 30%;
+	background-color: #482253;
+	border: 3px solid #f1a274 ;
+  	border-radius: 5px;
+  	box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+  	color: #FFFFFF;
+  	font-size: 18px;
+  	font-weight: 400;
+  	cursor: pointer;
+}
+.game-list-btn:hover{
+	background-color: #753767;
+	border: 3px solid #8f6647;
+}
